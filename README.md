@@ -27,7 +27,6 @@ The final output is an interactive Power BI dashboard designed for quick busines
 
 ## 🔍 Insights
 - Technology is the most profitable category, while Furniture suffers frequent losses.  
-- High discounts (above 30–40%) significantly reduce profit margin.  
 - Sales peak in Q4, especially November and December.  
 - Standard Class has the slowest delivery time (~5 days).  
 - A few customers contribute a large portion of total sales.  
@@ -38,7 +37,6 @@ The final output is an interactive Power BI dashboard designed for quick busines
 - **Dashboard file:** Superstore-Sales-Dashboard.pbix  
 - **Screenshots:**  
   - Dashboard Full View  
-  - KPIs & Visuals  
 
 ---
 
