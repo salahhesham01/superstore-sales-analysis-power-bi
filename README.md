@@ -1,5 +1,8 @@
 # Superstore Sales Analysis – Power BI Dashboard
 
+<img width="1146" height="646" alt="image" src="https://github.com/user-attachments/assets/bf673f3a-4a36-42d0-8469-fc6af50882d8" />
+
+
 ## 📌 Project Overview
 This project analyzes the Superstore dataset to uncover insights related to sales, profit, customer behavior, product performance, and delivery efficiency.  
 The final output is an interactive Power BI dashboard designed for quick business decision-making.
